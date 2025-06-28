@@ -52,11 +52,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.redis.om</groupId>
-			<artifactId>redis-om-spring</artifactId>
-			<version>0.9.5</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>com.redis.om</groupId>-->
+<!--			<artifactId>redis-om-spring</artifactId>-->
+<!--			<version>0.9.5</version>-->
+<!--		</dependency>-->
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
